@@ -1,0 +1,327 @@
+"Phrases"
+{
+	"c1m1_hotel"
+	{
+		"en"		"M1: 腊肠酒店"
+	}
+	"c1m2_streets"
+	{
+		"en"		"M2: 可乐商店"
+	}
+	"c1m3_mall"
+	{
+		"en"		"M3: 我超市你"
+	}
+	"c1m4_atrium"
+	{
+		"en"		"M4: 灌油时间"
+	}
+	"c2m1_highway"
+	{
+		"en"		"M1: 白给高速"
+	}
+	"c2m2_fairgrounds"
+	{
+		"en"		"M2: 死亡木马"
+	}
+	"c2m3_coaster"
+	{
+		"en"		"M3: 挂壁过山车"
+	}
+	"c2m4_barns"
+	{
+		"en"		"M4: 0伤谷仓"
+	}
+	"c2m5_concert"
+	{
+		"en"		"M5: 铁克音乐会"
+	}
+	"c3m1_plankcountry"
+	{
+		"en"		"M1: 贼慢邮轮"
+	}
+	"c3m2_swamp"
+	{
+		"en"		"M2: 好多水啊"
+	}
+	"c3m3_shantytown"
+	{
+		"en"		"M3: 小池河镇"
+	}
+	"c3m4_plantation"
+	{
+		"en"		"M4: 黑人种植园"
+	}
+	"c4m1_milltown_a"
+	{
+		"en"		"M1: 铁中顶镇"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"en"		"M2: 糖氏专厂"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"en"		"M3: 躺尸返厂"
+	}
+	"c4m4_milltown_b"
+	{
+		"en"		"M4: 横扫顶镇"
+	}
+	"c4m5_milltown_escape"
+	{
+		"en"		"M5: 抵达理船"
+	}
+	"c5m1_waterfront"
+	{
+		"en"		"M1: 龙虾市场"
+	}
+	"c5m2_park"
+	{
+		"en"		"M2: 殒命公园"
+	}
+	"c5m3_cemetery"
+	{
+		"en"		"M3: 墓地之上"
+	}
+	"c5m4_quarter"
+	{
+		"en"		"M4: 四分球"
+	}
+	"c5m5_bridge"
+	{
+		"en"		"M5: 桥在牛亡"
+	}
+	"c6m1_riverbank"
+	{
+		"en"		"M1: 河畔激战"
+	}
+	"c6m2_bedlam"
+	{
+		"en"		"M2: 地下水"
+	}
+	"c6m3_port"
+	{
+		"en"		"M3: 什么港口"
+	}
+	"c7m1_docks"
+	{
+		"en"		"M1: 团灭车厢"
+	}
+	"c7m2_barge"
+	{
+		"en"		"M2: 撞三米山"
+	}
+	"c7m3_port"
+	{
+		"en"		"M3: 翻车港口"
+	}
+	"c8m1_apartment"
+	{
+		"en"		"M1: 爱跳公寓"
+	}
+	"c8m2_subway"
+	{
+		"en"		"M2: 摆烂地铁"
+	}
+	"c8m3_sewers"
+	{
+		"en"		"M3: 起落落落"
+	}
+	"c8m4_interior"
+	{
+		"en"		"M4: 迷途医院"
+	}
+	"c8m5_rooftop"
+	{
+		"en"		"M5: 牛马屋顶"
+	}
+	"c9m1_alleys"
+	{
+		"en"		"M1: 跳杀小巷"
+	}
+	"c9m2_lots"
+	{
+		"en"		"M2: 见不到的装甲车"
+	}
+	"c10m1_caves"
+	{
+		"en"		"M1: 洞洞车穴"
+	}
+	"c10m2_drainage"
+	{
+		"en"		"M2: 管道小鸟"
+	}
+	"c10m3_ranchhouse"
+	{
+		"en"		"M3: 孤独教堂"
+	}
+	"c10m4_mainstreet"
+	{
+		"en"		"M4: 镇镇有爱"
+	}
+	"c10m5_houseboat"
+	{
+		"en"		"M5: 弈！屋！"
+	}
+	"c11m1_greenhouse"
+	{
+		"en"		"M1: 温识秒杀"
+	}
+	"c11m2_offices"
+	{
+		"en"		"M2: 办公圣地"
+	}
+	"c11m3_garage"
+	{
+		"en"		"M3: 建猪工地"
+	}
+	"c11m4_terminal"
+	{
+		"en"		"M4: 航战楼咯"
+	}
+	"c11m5_runway"
+	{
+		"en"		"M5: 跑跑军机"
+	}
+	"c12m1_hilltop"
+	{
+		"en"		"M1: 越共树林"
+	}
+	"c12m2_traintunnel"
+	{
+		"en"		"M2: 随缘通道"
+	}
+	"c12m3_bridge"
+	{
+		"en"		"M3: 踏平破桥"
+	}
+	"c12m4_barn"
+	{
+		"en"		"M4: 上战车火"
+	}
+	"c12m5_cornfield"
+	{
+		"en"		"M5: 白打农场"
+	}
+	"c13m1_alpinecreek"
+	{
+		"en"		"M1: 急流勇进"
+	}
+	"c13m2_southpinestream"
+	{
+		"en"		"M2: 五光十色"
+	}
+	"c13m3_memorialbridge"
+	{
+		"en"		"M3: 纪念桥梁"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"en"		"M4: 激流勇退"
+	}
+	"c14m1_junkyard"
+	{
+		"en"		"M1: 垃圾场"
+	}
+	"c14m2_lighthouse"
+	{
+		"en"		"M2: 灯塌"
+	}
+	"l4d2_city17_01"
+	{
+		"en"		"1: Tunnels"
+	}
+	"l4d2_city17_02"
+	{
+		"en"		"2: To the surface"
+	}
+	"l4d2_city17_03"
+	{
+		"en"		"3: Streets"
+	}
+	"l4d2_city17_04"
+	{
+		"en"		"4: Hospital"
+	}
+	"l4d2_city17_05"
+	{
+		"en"		"5: Trainstation"
+	}
+	"dkr_m1_motel"
+	{
+		"en"		"The Motel"
+	}
+	"dkr_m2_carnival"
+	{
+		"en"		"The Carnival"
+	}
+	"dkr_m3_tunneloflove"
+	{
+		"en"		"The Tunnel of Love"
+	}
+	"dkr_m4_ferris"
+	{
+		"en"		"The Ferris Wheel"
+	}
+	"dkr_m5_stadium"
+	{
+		"en"		"The Stadium"
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		"en"		"Apartment complex"
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		"en"		"Downtown military outpost"
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		"en"		"The Skymall"
+	}
+	"l4d2_diescraper4_top_361"
+	{
+		"en"		"The top suites"
+	}
+	"x1m1_cliffs"
+	{
+		"en"		"Cliffs"
+	}
+	"x1m2_path"
+	{
+		"en"		"Path"
+	}
+	"x1m3_city"
+	{
+		"en"		"City"
+	}
+	"x1m4_forest"
+	{
+		"en"		"Forest"
+	}
+	"x1m5_salvation"
+	{
+		"en"		"Salvation"
+	}
+	"x1m6_aftermath"
+	{
+		"en"		"Aftermath"
+	}
+	"cwm1_intro"
+	{
+		"en"		"The Riverbed"
+	}
+	"cwm2_warehouse"
+	{
+		"en"		"The Town"
+	}
+	"cwm3_drain"
+	{
+		"en"		"The Sewers"
+	}
+	"cwm4_building"
+	{
+		"en"		"The Office Building"
+	}
+}

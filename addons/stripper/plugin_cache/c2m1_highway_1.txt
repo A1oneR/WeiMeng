@@ -1,0 +1,10 @@
+//----------FILE MODIFICATION (YY/MM/DD): [2022/09/23] ---------------||
+//----------BY: Air----------------------||
+
+"Objects_Cache"
+{
+	"total_cache"
+	{
+		"total" "0"
+	}
+}

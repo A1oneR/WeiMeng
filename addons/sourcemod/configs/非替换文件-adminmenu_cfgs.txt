@@ -1,0 +1,28 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+	"cfg/vote/hp.cfg"				"全体回血"
+	"cfg/vote/restartmap.cfg"		"重开地图"
+	"cfg/vote/tankshuffle.cfg"		"重选坦克"
+	"cfg/vote/8people.cfg"			"关闭旁观"
+	"cfg/vote/12people.cfg"			"4 个旁观"
+	"cfg/vote/16people.cfg"			"8 个旁观"
+	"cfg/vote/nomod.cfg"			"关闭MOD"
+	"cfg/vote/mod.cfg"				"开启MOD"
+	"cfg/vote/svalltalk0.cfg"		"打开全体语音"
+	"cfg/vote/svalltalk1.cfg"		"关闭全体语音"
+	
+	"cfg/match/zmbaokang/4v4.cfg"		"切换模式-包抗"
+	"cfg/match/zonemod/4v4.cfg"			"切换模式-ZoneMod"
+	"cfg/match/acemod/4v4.cfg"			"切换模式-Ace Mod"
+	"cfg/match/zmbaokang/wp.cfg"		"切换模式- WP"
+	"cfg/match/coop/coop.cfg"			"切换模式-普通战役"
+	"cfg/match/coop/1v.cfg"				"切换模式-战役 1VN"
+	"cfg/match/coop/4v.cfg"				"切换模式-战役 4VN"
+	"cfg/match/coop/r.cfg"				"切换模式-写实战役"
+	"cfg/match/coop/s.cfg"				"切换模式-生还者模式"
+	
+}

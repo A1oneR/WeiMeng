@@ -1,0 +1,60 @@
+"Cfgs"
+{
+	"常用投票"
+	{
+		"sm_serverhp;sm_recover"
+		{
+   			"message" "全体回血"
+	 	}
+		"sm_cvar sv_alltalk 1"
+		{
+			"message" "打开全体语音"
+		}
+		"sm_cvar sv_alltalk 0"
+		{
+			"message" "关闭全体语音"
+		}
+		"sm_vms"
+		{
+			"message" "强制旁观"
+		}
+	}
+	"不常用投票"
+	{
+		"sm_votekick"
+		{
+			"message" "投票踢人"
+		}
+		"sm_restartmap"
+		{
+			"message" "重启地图"
+		}
+		"sm_rs"
+		{
+			"message" "重启服务器"
+		}
+	}
+	"更换模式"
+	{
+		"exec match/weimeng/4v4.cfg"
+		{
+			"message" "WMV 1.5.1"
+		}
+		"exec match/weimeng/4v4_2.cfg"
+		{
+			"message" "WMV 2.0"
+		}
+		"exec match/weimeng/wmp.cfg"
+		{
+			"message" "WMP v1"
+		}
+		"exec match/zonemod/4v4.cfg"
+		{
+			"message" "Zone Mod 2.8.6"
+		}
+		"exec match/zmbaokang/wp.cfg"
+		{
+			"message" "Witch Party"
+		}	
+	}
+}

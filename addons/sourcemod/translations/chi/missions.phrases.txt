@@ -1,0 +1,603 @@
+﻿"Phrases" 
+{
+	"L4D2C1"
+	{
+		"chi" "死亡中心"
+	}
+	"L4D2C2"
+	{
+		"chi" "黑暗嘉年华"
+	}
+	"L4D2C3"
+	{
+		"chi" "沼泽激战"
+	}
+	"L4D2C4"
+	{
+		"chi" "暴风骤雨"
+	}
+	"L4D2C5"
+	{
+		"chi" "教区"
+	}
+	"L4D2C6"
+	{
+		"chi" "短暂时刻"
+	}
+	"L4D2C7"
+	{
+		"chi" "牺牲"
+	}
+	"L4D2C8"
+	{
+		"chi" "毫不留情"
+	}
+	"L4D2C9"
+	{
+		"chi" "坠机险途"
+	}
+	"L4D2C10"
+	{
+		"chi" "死亡丧钟"
+	}
+	"L4D2C11"
+	{
+		"chi" "静寂时分"
+	}
+	"L4D2C12"
+	{
+		"chi" "血腥收获"
+	}
+	"L4D2C13"
+	{
+		"chi" "刺骨寒溪"
+	}
+	"L4D2C14"
+	{
+		"chi" "临死一搏"
+	}
+	"HHHHH"
+	{
+		"chi" "什么J8"
+	}
+	"huichuang2"
+	{
+		"chi" "灰怆2"
+	}
+	"fieldofthedeadext"
+	{
+		"chi" "死亡领域"
+	}
+	"fallen"
+	{
+		"chi" "坠落"
+	}
+	"Cure2"
+	{
+		"chi" "治愈2"
+	}
+	"YamaMSE"
+	{
+		"chi" "摩耶山危机"
+	}
+	"deadmilitary2"
+	{
+		"chi" "死亡军团2"
+	}
+	"pdm"
+	{
+		"chi" "平顶山研究所"
+	}
+	"hauntedforest"
+	{
+		"chi" "颤栗森林"
+	}
+	"echo"
+	{
+		"chi" "死亡回声"
+	}
+	"ggsmi"
+	{
+		"chi" "摩西岛阴影"
+	}
+	"deathisland"
+	{
+		"chi" "死亡岛"
+	}
+	"Overkill"
+	{
+		"chi" "赶尽杀绝"
+	}
+	"red"
+	{
+		"chi" "救赎2"
+	}
+	"yomimario2"
+	{
+		"chi" "马里奥探险"
+	}
+	"BDU"
+	{
+		"chi" "燃烧之下"
+	}
+	"mic3"
+	{
+		"chi" "军事工厂3"
+	}
+	"BadNeighborhood"
+	{
+		"chi" "坏邻居"
+	}
+	"PrototypeMk3"
+	{
+		"chi" "原型三号"
+	}
+	"NoMoreIndustries"
+	{
+		"chi" "工业区2"
+	}
+	"specialtask"
+	{
+		"chi" "特殊任务"
+	}
+	"JTB2"
+	{
+		"chi" "恐惧2"
+	}
+	"L4D2Unreal"
+	{
+		"chi" "虚幻之赛"
+	}
+	"escdevilschapel"
+	{
+		"chi" "逃离魔鬼教堂"
+	}
+	"huichuang"
+	{
+		"chi" "灰怆"
+	}
+	"Outbreak"
+	{
+		"chi" "生化危机：爆发"
+	}
+	"CrashBandicootTheReturn"
+	{
+		"chi" "崩溃的博士"
+	}
+	"complexcourseR"
+	{
+		"chi" "复杂过程"
+	}
+	"Hellstorm"
+	{
+		"chi" "地狱风暴"
+	}
+	"DeathWoods"
+	{
+		"chi" "死亡丛林"
+	}
+	"Pasiri"
+	{
+		"chi" "可乐之塔"
+	}
+	"LBDTM"
+	{
+		"chi" "死亡厕所迷宫"
+	}
+	"umbrella"
+	{
+		"chi" "保护伞"
+	}
+	"wmconfidential"
+	{
+		"chi" "机密行动"
+	}
+	"undeadzone"
+	{
+		"chi" "亡灵区"
+	}
+	"ravenholmwar2"
+	{
+		"chi" "我们不去莱温霍姆"
+	}
+	"OttawaRockCity"
+	{
+		"chi" "渥太华岩城"
+	}
+	"Hideout2"
+	{
+		"chi" "完美隐藏2"
+	}
+	"25toLife"
+	{
+		"chi" "终身监禁"
+	}
+	"NeverEndingWar"
+	{
+		"chi" "无尽战争"
+	}
+	"LeftinChina"
+	{
+		"chi" "留在中国"
+	}
+	"LeftinChinal4d2"
+	{
+		"chi" "留在中国"
+	}
+	"ATS1"
+	{
+		"chi" "异形三部曲：第一章"
+	}
+	"QuestionableEthics"
+	{
+		"chi" "伦理问题"
+	}
+	"fallindeath"
+	{
+		"chi" "坠入死亡"
+	}
+	"damitburied"
+	{
+		"chi" "大坝：洪水"
+	}
+	"damitdc"
+	{
+		"chi" "大坝2导演版"
+	}
+	"adammission"
+	{
+		"chi" "大坝的使命"
+	}
+	"st2"
+	{
+		"chi" "特殊任务2"
+	}
+	"nowayoutv3"
+	{
+		"chi" "没有出路"
+	}
+	"slikroad"
+	{
+		"chi" "丝绸之路"
+	}
+	"Left4Duluth"
+	{
+		"chi" "德卢斯"
+	}
+	"fortnoesis"
+	{
+		"chi" "理性壁垒"
+	}
+	"DeadFlagBlues"
+	{
+		"chi" "死亡旗帜2"
+	}
+	"beginninghours"
+	{
+		"chi" "开始时间"
+	}
+	"JourneyToSplashMountain"
+	{
+		"chi" "飞溅山之旅"
+	}
+	"TacoBucket"
+	{
+		"chi" "塔克餐厅"
+	}
+	"ForgottenMist"
+	{
+		"chi" "被遗忘的迷雾"
+	}
+	"TheCurseofLazarCastle"
+	{
+		"chi" "城堡的诅咒"
+	}
+	"LeftTurnSilentHill3"
+	{
+		"chi" "寂静岭3"
+	}
+	"hometown"
+	{
+		"chi" "故乡"
+	}
+	"tot"
+	{
+		"chi" "惊怵之旅"
+	}
+	"warcelona"
+	{
+		"chi" "巴塞罗那"
+	}
+	"darkwood"
+	{
+		"chi" "阴暗森林新版"
+	}
+	"deathaboard2"
+	{
+		"chi" "幽灵船"
+	}
+	"BloodTracks"
+	{
+		"chi" "血色铁路"
+	}
+	"DiescraperB3"
+	{
+		"chi" "摩天大厦终极版"
+	}
+	"drdego"
+	{
+		"chi" "暴毙峡谷"
+	}
+	"VC1ub5"
+	{
+		"chi" "维也纳的召唤1"
+	}
+	"VC2xy6"
+	{
+		"chi" "维也纳的召唤2"
+	}
+	"hehe11nmsl"
+	{
+		"chi" "呵呵11你妈死了"
+	}
+	"precinct84l4d2"
+	{
+		"chi" "第84区"
+	}
+	"City17l4d2"
+	{
+		"chi" "17号城市"
+	}
+	"detourahead"
+	{
+		"chi" "迂回前进"
+	}
+	"2evileyes"
+	{
+		"chi" "恶魔之瞳"
+	}
+	"LastBaktun"
+	{
+		"chi" "最后的白克顿"
+	}
+	"Escansion"
+	{
+		"chi" "韵律"
+	}
+	"Stenches"
+	{
+		"chi" "战壕"
+	}
+	"ProjectAuburn2"
+	{
+		"chi" 奥本计划
+	}
+	"midnightrr2"
+	{
+		"chi" "午夜铁路"
+	}
+	"QuestionableEthicsAlphaTest"
+	{
+		"chi" "伦理问题2阿尔法测试"
+	}
+	"l4d2CrashBandicoot2"
+	{
+		"chi" "崩溃的博士2"
+	}
+	"GasFever"
+	{
+		"chi" "狂热气体"
+	}
+	"nightterror"
+	{
+		"chi" "夜梦惊魂"
+	}
+	"BABEL"
+	{
+		"chi" "通天塔"
+	}
+	"TanksPlayground"
+	{
+		"chi" "坦克竞技场1"
+	}
+	"TankChallenge"
+	{
+		"chi" "坦克竞技场2"
+	}	
+	"TankArena"
+	{
+		"chi"  "新坦克竞技场"
+	}
+	"kaoming"
+	{
+		"chi" "尻名山"
+	}
+	"deathtrip"
+	{
+		"chi" "死亡之旅"
+	}
+	"DeathMountain"
+	{
+		"chi" "死亡山谷"
+	}
+	"newworldorder"
+	{
+		"chi" "新世界秩序"
+	}
+	"baishan"
+	{
+		"chi" "拜山"
+	}
+	"TheBloodyMoors"
+	{
+		"chi" "血腥荒野"
+	}
+	"FarewellChenming"
+	{
+		"chi" "再见了晨茗"
+	}
+	"bigwat"
+	{
+		"chi" "大佛寺"
+	}
+	"TheHive"
+	{
+		"chi" "蜂巢"
+	}
+	"IC2"
+	{
+		"chi" "感染之城2"
+	}
+	"thewoods2"
+	{
+		"chi" "森林2"
+	}
+	"lost"
+	{
+		"chi" "迷失"
+	}
+	"ihatemountains2"
+	{
+		"chi" "我恨山2"
+	}
+	"bpls1"
+	{
+		"chi" "死路"
+	}
+	"deathSentence"
+	{
+		"chi" "死刑"
+	}
+	"left4cake2"
+	{
+		"chi" "活蛋糕"
+	}
+	"CSGOArmsRace"
+	{
+		"chi" "CS：GO军备竞赛地图"
+	}
+	"urbanflight"
+	{
+		"chi" "城市航班"
+	}
+	"DeathAbove"
+	{
+		"chi" "死神天降"
+	}
+	"NoMoreCedaDc"
+	{
+		"chi" "CEDA不再存在"
+	}
+	"DieTrying2"
+	{
+		"chi" "至死方休2"
+	}
+	"DeadSeries"
+	{
+		"chi" "死亡系列"
+	}
+	"hehe"
+	{
+		"chi" "呵呵"
+	}
+	"hehe1"
+	{
+		"chi" "呵呵1"
+	}
+	"hehe2"
+	{
+		"chi" "呵呵2"
+	}
+	"hehe3"
+	{
+		"chi" "呵呵3"
+	}
+	"hehe4"
+	{
+		"chi" "呵呵4"
+	}
+	"hehe5"
+	{
+		"chi" "呵呵5"
+	}
+	"hehe6"
+	{
+		"chi" "呵呵6"
+	}
+	"hehe7"
+	{
+		"chi" "呵呵7"
+	}
+	"hehe8"
+	{
+		"chi" "呵呵8"
+	}
+	"hehe9"
+	{
+		"chi" "呵呵9"
+	}
+	"hehe10"
+	{
+		"chi" "呵呵10"
+	}
+	"hehe11"
+	{
+		"chi" "呵呵11"
+	}
+	"hehe12"
+	{
+		"chi" "呵呵12"
+	}
+	"hehe13"
+	{
+		"chi" "呵呵13"
+	}
+	"hehe14"
+	{
+		"chi" "呵呵14"
+	}
+	"hehe15"
+	{
+		"chi" "呵呵15"
+	}
+	"hehe16"
+	{
+		"chi" "呵呵16"
+	}
+	"hehe17"
+	{
+		"chi" "呵呵17"
+	}
+	"hehe18"
+	{
+		"chi" "呵呵18"
+	}
+	"hehe19"
+	{
+		"chi" "呵呵19"
+	}
+	"hehe20"
+	{
+		"chi" "呵呵20"
+	}
+	"hehe21"
+	{
+		"chi" "呵呵21"
+	}
+	"hehereturn"
+	{
+		"chi" "呵呵返回"
+	}
+	"RoadToNowhere2"
+	{
+		"chi" "路在何方2"
+	}
+	"RoadToNowhere2"
+	{
+		"chi" "路在何方2"
+	}
+	"ttwohdr"
+	{
+		"chi" "圣盔谷"
+	}
+}

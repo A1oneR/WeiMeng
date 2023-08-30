@@ -1,0 +1,21 @@
+//Category Vehicles 載具類
+models/props_vehicles/airport_baggage_cart2.mdl TAG- 行李箱
+models/props_vehicles/cara_69sedan.mdl TAG- 长板车
+models/props_vehicles/cara_82hatchback.mdl TAG- 短板车
+models/props_vehicles/cara_84sedan.mdl TAG- 中板车
+models/props_vehicles/cara_95sedan.mdl TAG- 中板车2
+models/props_vehicles/pickup_truck_2004.mdl TAG- 小货车
+models/props_vehicles/pickup_truck_78.mdl TAG- 小货车2
+models/props_vehicles/police_car_city.mdl TAG- 警车
+models/props/cs_assault/forklift.mdl TAG- 叉车
+models/props_fairgrounds/bumpercar.mdl TAG- 游乐园碰碰车
+//Category Foliage 植物類
+models/props_foliage/swamp_fallentree01_bare.mdl TAG- 断掉的沼泽树干
+models/props_foliage/tree_trunk_fallen.mdl TAG- 倒下的枯木
+models/props_unique/haybails_single.mdl TAG- 草捆
+//Category Misc 雜項類
+models/props_junk/dumpster.mdl TAG- 绿色垃圾箱
+models/props_junk/dumpster_2.mdl TAG- 白色垃圾箱
+models/props_unique/airport/atlas_break_ball.mdl TAG- 地球模型
+
+

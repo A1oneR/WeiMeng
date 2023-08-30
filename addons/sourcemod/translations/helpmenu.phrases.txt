@@ -1,0 +1,294 @@
+"Phrases"
+{
+	"WelcomeMessage"
+	{
+		"en"			"{green}[WM]{default} Welcome to WeiMeng's Server!! For help, type {olive}!helpmenu{default} in chat."
+		"zho"			"{green}[WM]{default} 欢迎来到WeiMeng服务器。 {olive}!helpmenu{default} 可尋求幫助"
+		"chi"			"{green}[WM]{default} 欢迎来到WeiMeng服务器。 {olive}!helpmenu{default} 可寻求帮助"
+	}
+	"Server Rules"
+	{
+		"en"			"Server Rules"
+		"zho"			"伺服器守法"
+		"chi"			"服务器规则"
+	}
+	"- Very Strange"
+	{
+		"en"			"- If You have any questions, communicate with Admin"
+		"zho"			"- 选择对应的具体问题后，联系管理员或Steam_WeiMeng"
+		"chi"			"- 选择对应的具体问题后，联系管理员或Steam_WeiMeng"
+	}
+	"- Very Fun"
+	{
+		"en"			"- If you see a bug, just report it"
+		"zho"			"- 如遇到bug，或对游戏内容有建议，可以直接提出"
+		"chi"			"- 如遇到bug，或对游戏内容有建议，可以直接提出"
+	}
+	"- Leave if you don't like"
+	{
+		"en"			"- Do not be abusive."
+		"zho"			"- 禁止在服、群内谩骂、倒苦水，可自行解决，需要WeiMeng协调的请保留事实，并联系"
+		"chi"			"- 禁止在服、群内谩骂、倒苦水，可自行解决，需要WeiMeng协调的请保留事实，并联系"
+	}
+	"- Don't Cheat"
+	{
+		"en"			"- If You meet abusive players, contact to Admin"
+		"zho"			"- 如遇到不公正待遇或有玩家恶意干扰正常游戏进行，请保留事实，并联系"
+		"chi"			"- 如遇到不公正待遇或有玩家恶意干扰正常游戏进行，请保留事实，并联系"
+	}
+	"- Cheat"
+	{
+		"en"			"- If You meet cheat players, contact to Admin"
+		"zho"			"- 如遇到作弊行为，录制Demo，并获取作弊玩家的Steamid，并联系"
+		"chi"			"- 如遇到作弊行为，录制Demo，并获取作弊玩家的Steamid，并联系"
+	}
+	"- Record"
+	{
+		"en"			"- How 2 record: input 'record x' in console."
+		"zho"			"- 录制Demo：控制台输入record #录制，输入stop保存；路径为steam\steamapps\common\Left 4 Dead 2\left4dead2"
+		"chi"			"- 录制Demo：控制台输入record #录制，输入stop保存；路径为steam\steamapps\common\Left 4 Dead 2\left4dead2"
+	}
+	"- Status"
+	{
+		"en"			"- How 2 get Status: input 'Status' in console."
+		"zho"			"- 获取SteamID：控制台输入Status，或聊天窗输入!lerps,复制名字和ID如：挂出售加q0123456789 [STEAM_1:1:111111111]即可"
+		"chi"			"- 获取SteamID：控制台输入Status，或聊天窗输入!lerps,复制名字和ID如：挂出售加q0123456789 [STEAM_1:1:111111111]即可"
+	}
+	"- AdminApply"
+	{
+		"en"			"- No sale of Admin."
+		"zho"			"- 本服管理员不出售，谢绝赞助。管理员由德高望重、公正无私的白名单玩家，由服主直接任用或其他管理员举荐"
+		"chi"			"- 本服管理员不出售，谢绝赞助。管理员由德高望重、公正无私的白名单玩家，由服主直接任用或其他管理员举荐"
+	}
+	"- WhiteApply"
+	{
+		"en"			"- Contact to WeiMeng to get white list if you are friendly and experienced."
+		"zho"			"- 长期游玩本服且待人友善的玩家，可以向管理员或服主申请白名单"
+		"chi"			"- 长期游玩本服且待人友善的玩家，可以向管理员或服主申请白名单"
+	}
+	"- Rudeness"
+	{
+		"en"			"- Rudeness will be banned,at least 180 days."
+		"zho"			"- 存在爷新行为的，将受到180天到永久封禁，能积极纠错、态度良好的，有1次解禁资格"
+		"chi"			"- 存在爷新行为的，将受到180天到永久封禁，能积极纠错、态度良好的，有1次解禁资格"
+	}
+	"- Cheated"
+	{
+		"en"			"- Cheated will be banned,FOREVER."
+		"zho"			"- 有作弊行为的，将无条件受到永久封禁，永不能解封"
+		"chi"			"- 有作弊行为的，将无条件受到永久封禁，永不能解封"
+	}
+	"Welcome to Official Instructions"
+	{
+		"en"			"Welcome to Air's Server\nIt is quite strange when in AirMod\nby Air"
+		"zho"			"歡迎來到WeiMeng伺服器\n默认模式为ZM包抗-WMV\n本服务器帮助列表"
+		"chi"			"欢迎来到WeiMengServer\n默认模式为ZM包抗-WMV\n本服务器帮助列表"
+	}
+	"Map Rotation"
+	{
+		"en"			"Map Rotation"
+		"zho"			"地圖輪換"
+		"chi"			"地图轮换"
+		"ru"			"Список карт"
+	}
+	"List Online Admins"
+	{
+		"en"			"List Online Admins"
+		"zho"			"在線管理員"
+		"chi"			"在线管理员"	
+	}
+	"Join our steam group"
+	{
+		"en"			"Join our steam group"
+		"zho"			"加入我們的Steam群組"	
+		"chi"			"加入我们的Steam群组"
+		"ru"			"Присоединяйтесь к группе в Steam"
+	}
+	"Don't display again"
+	{
+		"en"			"Don't display again"
+		"ru"			"Не показывать снова"
+		"zho"			"永遠不再顯示介面"	
+		"chi"			"永远不再显示界面"
+	}
+	"Display again next time"
+	{
+		"en"			"Display again next time"
+		"ru"			"Показывать снова"
+		"zho"			"下次繼續顯示介面"	
+		"chi"			"下次继续显示界面"
+	}
+	"Auto menu"
+	{
+		"#format"		"{1:t}"
+		"en"			"{green}[SM]{default} Auto Help Menu is {olive}{1}"
+		"ru"			"{green}[SM]{default} Меню автопомощи {olive}{1}"
+		"zho"			"{green}[SM]{default} 自動幫助介面已 {olive}{1}"
+		"chi"			"{green}[SM]{default} 自动帮助介面已 {olive}{1}"
+	}
+	"enabled"
+	{
+		"en"			"enabled"
+		"ru"			"включено"
+		"zho"			"開啟"	
+		"chi"			"开启"
+	}
+	"disabled"
+	{
+		"en"			"disabled"
+		"ru"			"отключено"
+		"zho"			"關閉"	
+		"chi"			"关闭"
+	}
+	"Configuration file has been reloaded"
+	{
+		"en"			"{green}[SM]{default} Help Menu Configuration file has been reloaded"
+		"ru"			"{green}[SM]{default} Конфигурационный файл меню помощи был перезагружен"
+		"zho"			"{green}[SM]{default} 幫助介面的相關文件已重新載入"	
+		"chi"			"{green}[SM]{default} 帮助界面的相关文件已重新载入"
+	}
+	"Current Rotation"
+	{
+		"#format"		"{1:i}"
+		"en"			"Current Rotation ({1} maps)"
+		"zho"			"地圖輪換 ({1} 張)"
+		"chi"			"地图轮换 ({1} 张)"
+		"ru"			"Текущий список ({1} карт)"
+	}
+	"Description"
+	{
+		"en"			"Description"
+		"zho"			"描述"
+		"chi"			"描述"
+		"ru"			"Описание"
+	}
+	"Chat Commands"
+	{
+		"en"			"Chat Commands"
+		"zho"			"可使用的指令列表"
+		"chi"			"可使用的指令列表"
+		"ru"			"Команды чата"
+	}
+	"say !health"
+	{
+		"en"			"!health - See Health Bonus"
+		"zho"			"!health - 查看奖励分"
+		"chi"			"!health - 查看奖励分"
+	}
+	"say !tank"
+	{
+		"en"			"!tank - See Current"
+		"zho"			"!tank - 查看当前路程、tank和witch的位置"
+		"chi"			"!tank - 查看当前路程、tank和witch的位置"
+	}
+	"say !mvp"
+	{
+		"en"			"!mvp - See MVP"
+		"zho"			"!mvp - 查看谁是大爹，谁在摸鱼"
+		"chi"			"!mvp - 查看谁是大爹，谁在摸鱼"
+	}
+	"say !ammo"
+	{
+		"en"			"!ammo - Announce Ammo"
+		"zho"			"!ammo - 队内提示剩余弹药"
+		"chi"			"!ammo - 队内提示剩余弹药"
+	}
+	"say !votes"
+	{
+		"en"			"!votes - Votes"
+		"zho"			"!votes - 投票"
+		"chi"			"!votes - 投票"
+	}
+	"say !s"
+	{
+		"en"			"!s - Become Spectator"
+		"zho"			"!s - 成為旁觀者"
+		"chi"			"!s - 成为旁观者"
+	}
+	"say !slots 12"
+	{
+		"en"			"!slots 12 - slots 12"
+		"zho"			"!slots 12 -更改服务器最大人数限制，以12人为例"
+		"chi"			"!slots 12 -更改服务器最大人数限制，以12人为例"
+	}
+	"say !rpg"
+	{
+		"en"			"!rpg - Say I'm Dumb"
+		"zho"			"!rpg - 打开RPG菜单    :   )"
+		"chi"			"!rpg - 打开RPG菜单    :   )"
+	}
+	"Human Play"
+	{
+		"en"			"Server Rules - Continue"
+		"zho"			"服务器规则 - 续"
+		"chi"			"服务器规则 - 续"
+	}
+	"Human Play1"
+	{
+		"en"			"- Editing..."
+		"zho"			"- 编辑中"
+		"chi"			"- 编辑中"
+	}
+	"Custom Change"
+	{
+		"en"			"Custom Change"
+		"chi"			"特色改动"
+	}
+	"Custom Change 2"
+	{
+		"en"			"Custom Change 2"
+		"chi"			"特色改动 2"
+	}
+	"Server Rules 2"
+	{
+		"en"			"Server Rules 2"
+		"zho"			"伺服器守法 2"
+		"chi"			"服务器规则 2"
+	}
+	"Server Rules 3"
+	{
+		"en"			"Server Rules 3"
+		"zho"			"伺服器守法 3"
+		"chi"			"服务器规则 3"
+	}
+	"- Goods"
+	{
+		"en"			"4 Med in saferoom,3 Pills and 1 adrenaline"
+		"chi"			"止疼药改为医疗包，非救援关卡刷新3瓶止疼药和1根肾上腺素，救援关卡刷新4瓶止疼药和1根肾上腺素"
+	}
+	"- Bonus"
+	{
+		"en"			"600 in pool, 1 Damage/Pool, See Mapinfo for Total Bonus"
+		"chi"			"奖励分满分为总路程分的1.5倍，实际得分=奖励分满分乘【（600-站立状态下受到伤害）除以600"】
+	}
+	"- Med"
+	{
+		"en"			"Med gives solid 50 PermHP, Use Time 3s"
+		"chi"			"医疗包效果为，获得50点实血，保留虚血，并移除倒地惩罚，使用时间降低至3秒"
+	}
+	"- Give"
+	{
+		"en"			"Press R give Medkits&Pills"
+		"chi"			"持医疗包、止疼药、肾上腺素时，对队友按下R即可传递医疗物资 "
+	}
+	"- Weapon"
+	{
+		"en"			"2 Axes spawn in saferoom and only guitar spawn in areas,no mp5"
+		"chi"			"移除MP5，安全室内近战固定刷新2把消防斧，安全室外近战仅刷新电吉他"
+	}
+	"- Pounce"
+	{
+		"en"			"no hunter shove,hunter high pounce max 35,jockey 20"
+		"chi"			"Hunter飞行中不能被推，高扑上限35点，jockey高扑上限20点"
+	}
+	"- meleeTank"
+	{
+		"en"			"melee dmg to TANK is 198"
+		"chi"			"TANK受到近战伤害为198每次"
+	}
+	"- Horde"
+	{
+		"en"			"No unlimited horde"
+		"chi"			"所有的机关尸潮改为有限，并提示剩余数量"
+	}
+}

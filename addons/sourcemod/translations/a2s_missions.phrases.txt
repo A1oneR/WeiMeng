@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"L4D2C1"
+	{
+		"en"		"C1"
+	}
+	"L4D2C2"
+	{
+		"en"		"C2"
+	}
+	"L4D2C3"
+	{
+		"en"		"C3"
+	}
+	"L4D2C4"
+	{
+		"en"		"C4"
+	}
+	"L4D2C5"
+	{
+		"en"		"C5"
+	}
+	"L4D2C6"
+	{
+		"en"		"C6"
+	}
+	"L4D2C7"
+	{
+		"en"		"C7"
+	}
+	"L4D2C8"
+	{
+		"en"		"C8"
+	}
+	"L4D2C9"
+	{
+		"en"		"C9"
+	}
+	"L4D2C10"
+	{
+		"en"		"C10"
+	}
+	"L4D2C11"
+	{
+		"en"		"C11"
+	}
+	"L4D2C12"
+	{
+		"en"		"C12"
+	}
+	"L4D2C13"
+	{
+		"en"		"C13"
+	}
+	"L4D2C14"
+	{
+		"en"		"C14"
+	}
+	"City17l4d2"
+	{
+		"en"		"City 17 v3.2"
+	}
+	"DarkCarnivalRemix"
+	{
+		"en"		"Dark Carnival Remix"
+	}
+	"Diescraper362"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"Diescraper362VS"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"OpenRoadICSX"
+	{
+		"en"		"Open Road"
+	}
+	"CarriedOff"
+	{
+		"en"		"Carried Off"
+	}
+}

@@ -1,0 +1,19 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+	"cfg/vote/hp.cfg"				"全体回血"
+	"cfg/vote/svalltalk1.cfg"			"打开全体语音"
+	"cfg/vote/svalltalk0.cfg"			"关闭全体语音"
+	"cfg/match/weimeng/4v4.cfg"		"切换模式-WMV 1.5.1"
+	"cfg/match/weimeng/4v4_2.cfg"		"切换模式-WMV 2.0"
+	"cfg/match/weimeng/wmp.cfg"		"切换模式-WMP v1"
+	"cfg/match/zonemod/4v4.cfg"		"切换模式-ZoneMod"
+	"cfg/match/zmbaokang/wp.cfg"		"切换模式- WithchParty"
+	"cfg/match/nextmod/1v1.cfg"		"切换模式-NextMod 1v1"
+	"cfg/match/weimeng/tt.cfg"			"切换模式-TankTraining"
+	"cfg/vote/restartmap.cfg"			"重启地图"
+	"cfg/vote/rs.cfg"				"重启服务器"
+}

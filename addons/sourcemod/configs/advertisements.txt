@@ -1,0 +1,64 @@
+﻿﻿// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"	"{lightgreen}按H键加Steam组后，所有服务器会出现在主界面右下；QQ群915853671（聊天、提供ip）"
+    }
+    "2"
+    {
+        "chat"	"{lightgreen}本服主要内容为Zonemod包抗，三秒打包回60实血，保留虚血，虚血抗伤，按R传递物资，3推CD"
+    }
+    "3"
+    {
+        "chat"	"{lightgreen}新手入坑：https://docs.qq.com/sheet/DUm1ZRlBTY3lSdHlu?tab=t128mh"
+    }
+    "4"
+    {
+        "chat"	"{lightgreen}联ban网站：http://breatheair.club，并自行录好demo为证"
+    }
+    "5"
+    {
+        "chat"	"{lightgreen}更新日志：https://docs.qq.com/sheet/DUlRNY1hWSEtiVG93?tab=BB08J2"
+    }
+    "6"
+    {
+        "chat"	"{lightgreen}B站教学：VTChina1和2、L4HF、5分钟学会Hunter的基本技巧"
+    }
+    "7"
+    {
+        "chat"	"{lightgreen}每次重启游戏，在控制台分别输入cl_interp 0和cl_interp_ratio 0并佩戴耳机游玩，提高游戏体验"
+    }
+    "8"
+    {
+        "chat"	"{lightgreen}如果突然看不见特感了或者其他模型错位，在控制台输入record 1;stop就能解决"
+    }
+    "9"
+    {
+        "chat"	"{lightgreen}按C队内语音，按U队内聊天，按Y全屏聊天（旁观按Y指点江山小心被人恩怨）"
+    }
+    "10"
+    {
+        "chat"	"{lightgreen}VVVX之前你试过用C管住W了吗？（但是遇见我行我素的爷可以光速让他滚蛋）"
+    }
+    "11"
+    {
+        "chat"	"{lightgreen}Friendly is welcome,if you chingchangchong,get out of here."
+    }
+｝

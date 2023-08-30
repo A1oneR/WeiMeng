@@ -1,0 +1,73 @@
+//----------FILE MODIFICATION (YY/MM/DD): [2022/04/03] ---------------||
+//----------BY: A1R----------------------||
+
+"Objects_Cache"
+{
+	"object_1"
+	{
+		"solid" "6"
+		"origin" "13102 8552 1194"
+		"angles" "0 140 0"
+		"model"	 "models/props_swamp/ferry.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_2"
+	{
+		"solid" "6"
+		"origin" "11557 8763 516"
+		"angles" "125 593 -33"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_3"
+	{
+		"solid" "6"
+		"origin" "12434 8565 1021"
+		"angles" "595 1124 585"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_4"
+	{
+		"solid" "6"
+		"origin" "8362 9402 297"
+		"angles" "482 -104 0"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_5"
+	{
+		"solid" "6"
+		"origin" "10593 8930 191"
+		"angles" "54 412 148"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_6"
+	{
+		"solid" "6"
+		"origin" "6506 10626 354"
+		"angles" "305 164 180"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"object_7"
+	{
+		"solid" "6"
+		"origin" "6871 11593 209"
+		"angles" "124 165 0"
+		"model"	 "models/props_unique/subwaytracks01_b.mdl"
+		"classname"	"prop_dynamic"
+	}
+	
+	"total_cache"
+	{
+		"total" "7"
+	}
+}

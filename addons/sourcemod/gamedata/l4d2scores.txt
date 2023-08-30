@@ -1,0 +1,45 @@
+"Commands"
+{
+    "Left 4 Dead 2"
+    {
+        "Swap Players"
+        {
+            "cmd"        "sm_swap #1 @2"
+            "execute"    "player"
+            "1"
+            {
+                "type"         "teamplayer"
+                "method"    "name"
+                "title"        "Player A to swap:"
+            }
+            "2"
+            {
+                "type"         "teamplayer"
+                "method"    "name"
+                "title"        "Player B to swap:"
+            }
+        }
+        "Swap Player to Team"
+        {
+            "cmd"        "sm_swapto #1 @2"
+            "execute"    "player"
+            "1"
+            {
+                "type"         "teamplayer"
+                "method"    "name"
+                "title"        "Player to swap:"
+            }
+            "2"
+            {
+                "type"         "list"
+                "title"        "Desination Team:"
+                "1"        "1"
+                "1."        "Spectators"
+                "2"        "2"
+                "2."        "Survivors"
+                "3"        "3"
+                "3."        "Infected"
+            }
+        }
+    }
+}
